@@ -15,5 +15,11 @@ print("Subtraction:", calc.subtract(10, 5))
 def multiply(self, a, b):
         return a * b
 
+#rahul
 def divide(self, a, b):
         return a / b
+def modulus(self, a, b):
+        return a % b
+
+    def power(self, a, b):
+        return a ** b
